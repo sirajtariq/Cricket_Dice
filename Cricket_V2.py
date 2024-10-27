@@ -62,7 +62,7 @@ while True:
 
     while True:
             random.shuffle(cards)
-            index = int(input("Enter a Number 1-15: ")) - 1
+            index = int(input("Pick a card (1-15): ")) - 1
 
             if index < 0 or index >= len(cards):
                 print("Invalid Number. Please Enter an Number Only in 1 to 15.")
