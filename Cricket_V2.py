@@ -1,9 +1,9 @@
 import random
 
 cards = [
-    "1 Run | 1",
-    "2 Run | 2",
-    "3 Run | 3",
+    "Single | 1",
+    "Double | 2",
+    "Triple | 3",
     "Gone Gone FOOUR | 4",
     "Wide ball Missed by WK | 5",
     "Long Long SIXX | 6",
